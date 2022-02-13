@@ -12,3 +12,6 @@ About.component - this component is responsible for displaying information about
 Toobar.component - this component is responsible for displaying the toolbar (link to about page, app name)
 
 Unit-converter-ui.component - this component is responsible for the functionality of our application
+
+## For testing , write commands: npm i && npm run start
+
