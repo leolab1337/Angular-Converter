@@ -1,0 +1,19 @@
+.fill-remaining-spacee{
+    flex: 1 1 auto; 
+}
+
+#toolbar-title{
+    margin: auto;
+}
+
+.mat-toolbar{
+    background-color: #344da6;
+}
+
+#toolbar-title{
+    color: white;
+}
+
+.material-icons{
+    color: white;
+}
